@@ -8,7 +8,7 @@ packages = []
 [tool.poetry.dependencies]
 python = "^3.11"
 
-test-dep-ci-v1 = { git = "https://github.com/IamAbbey/test-dep-ci-v1.git", rev = "2a859e1cf0ae0316ae3365efa6891321a90806ee" }
+test-dep-ci-v1 = { git = "https://github.com/IamAbbey/test-dep-ci-v1.git", rev = "301626e7dfcace63ecf404ee9acce3e40051b931" }
 
 
 [build-system]
