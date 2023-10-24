@@ -65,8 +65,8 @@ django = "^4.2.5"
 [package.source]
 type = "git"
 url = "https://github.com/IamAbbey/test-dep-ci-v1.git"
-reference = "2a859e1cf0ae0316ae3365efa6891321a90806ee"
-resolved_reference = "2a859e1cf0ae0316ae3365efa6891321a90806ee"
+reference = "301626e7dfcace63ecf404ee9acce3e40051b931"
+resolved_reference = "301626e7dfcace63ecf404ee9acce3e40051b931"
 
 [[package]]
 name = "tzdata"
@@ -82,4 +82,4 @@ files = [
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.11"
-content-hash = "da42491c4b5fa28cb7f2a600a197096a0b27215d7ea99cb4b0692dd64fd81ed4"
+content-hash = "3c83755b545a9da71cce9de87137747cf905495cc590d43af1eb130382dbede0"
