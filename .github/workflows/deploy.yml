@@ -1,0 +1,10 @@
+on:
+  repository_dispatch:
+    types: [test_result]
+  
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+        echo "Hello, world!"
