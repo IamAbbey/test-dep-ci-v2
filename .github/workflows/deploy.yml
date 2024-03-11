@@ -1,6 +1,7 @@
 on:
+  deployment:
   repository_dispatch:
-    types: [test_result]
+    types: [pulumi]
   
 jobs:
   build:
